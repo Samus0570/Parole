@@ -191,7 +191,7 @@ Coraggio
 Speranza
 Sogno
 Desiderio
-Ambizione
+Borgogni
 Obiettivo
 Successo
 Fallimento
@@ -218,36 +218,20 @@ Avventura
 Strategia
 Azione
 Puzzle
-Simulazione
-RPG
-Multiplayer
 Singolo
 Online
 Offline
-Grafica
 Suono
-Dialogo
-Quest
-Equipaggiamento
 Boss
 Combattimento
 Mondo
 Mappa
-Salvataggio
-Caricamento
 Upgrade
-Skill
-HP
-Mana
 Inventario
 Obiettivo
 Nemico
 Alleato
 Esplorazione
-Sandbox
-Mod
-DLC
-Patch
 Continente
 Oceano
 Fiume
@@ -308,3 +292,53 @@ Lettura
 Passeggiata
 Sport
 Riposo
+Mozza
+Carpi
+Samu
+Robale
+Bale
+Tribale
+Alessandro
+Giulia
+Alessio
+Maria
+Giorgia
+Napoli
+Leonardo
+Prete
+Donfi
+Oratorio
+Carpi
+Dio
+Gesù
+Bibbia
+Deserto
+Grest
+Campeggio
+Tapi
+Camerata
+Bosco
+Falò
+Furgone del Donfi
+Rita
+Nikola
+Don Jan claude
+Chiasse
+Luca
+Fantacalciio
+Milano
+Leo
+Napoli
+Mia Calderiniù
+Gianmarco Bacchi
+La moto del tapi
+Big Game
+Blitz game
+Sporco
+Chiesa
+Squadre
+Hunger Games
+Camminate
+Teatro (Ricordiamo che Borgogni ha perso)
+Calcio
+Diario
