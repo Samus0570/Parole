@@ -319,7 +319,7 @@ Tapi
 Camerata
 Bosco
 Falò
-Furgone del Donfi
+Birkenau
 Rita
 Nikola
 Don Jan claude
@@ -329,9 +329,6 @@ Fantacalciio
 Milano
 Leo
 Napoli
-Mia Calderiniù
-Gianmarco Bacchi
-La moto del tapi
 Big Game
 Blitz game
 Sporco
